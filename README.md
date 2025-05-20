@@ -14,11 +14,6 @@ A simulation using PyBullet to test and visualize robot arm movement.
 
 ## Installation
 
-### 0. GitHub token
-```bash
-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
-```
-
 ### 1. Clone the repository
 
 ```bash
