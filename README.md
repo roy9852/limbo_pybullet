@@ -29,7 +29,7 @@ cd limbo_pybullet
 ### 2. Install dependency
 ```bash
 conda env create -f environment.yml
-conda activate limbo_pybullet
+conda activate limbo
 ```
 ### 3. Run simulation
 ```bash
