@@ -14,6 +14,11 @@ A simulation using PyBullet to test and visualize robot arm movement.
 
 ## Installation
 
+### 0. GitHub token
+```bash
+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
+```
+
 ### 1. Clone the repository
 
 ```bash
@@ -23,7 +28,8 @@ cd limbo-pybullet
 
 ### 2. Install dependency
 ```bash
-conda create --name limbo_pybullet
+conda env create -f environment.yml
+conda activate limbo_pybullet
 ```
 ### 3. Run simulation
 ```bash
