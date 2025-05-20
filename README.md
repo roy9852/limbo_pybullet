@@ -22,8 +22,8 @@ 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
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/limbo-pybullet.git
-cd limbo-pybullet
+git clone https://github.com/roy9852/limbo_pybullet.git
+cd limbo_pybullet
 ```
 
 ### 2. Install dependency
